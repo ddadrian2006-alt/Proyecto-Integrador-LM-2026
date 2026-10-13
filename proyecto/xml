@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Colección personal: Videojuegos de Historia Antigua y Mundo Clásico -->
+<catalogo>
+    <videojuego id="001" consola="PS5">
+        <título>Elden Ring</título>
+        <genero>RPG / Mitología</genero>
+        <ambientacion>Fantasía inspirada en el mundo clásico y mitología</ambientacion>
+        <lanzamiento>2022</lanzamiento>
+    </videojuego>
+    <videojuego id="002" consola="PS4">
+        <título>Assassin's Creed Odyssey</título>
+        <genero>Aventuras / Historia</genero>
+        <ambientacion>Grecia Antigua (Guerra del Peloponeso)</ambientacion>
+        <lanzamiento>2018</lanzamiento>
+    </videojuego>
+    <videojuego id="003" consola="PC">
+        <título>Expeditions: Rome</título>
+        <genero>Estrategia / RPG</genero>
+        <ambientacion>República Romana y provincias de la Antigüedad</ambientacion>
+        <lanzamiento>2022</lanzamiento>
+    </videojuego>
+</catalogo>
