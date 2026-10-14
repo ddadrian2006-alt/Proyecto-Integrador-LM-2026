@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expeditions Rome</title>
+</head>
+<body>
+    <hl>El Quijote</hl>
+    <p>Autor : <b>Miguel de Cervantes</b></p>
+    <img src="proyecto/imagenes/imagenwebporadajuego_expeditions_rome.jpg" alt="Portada" width="200">
+    <p>Precio: 12,95€</p><P>
+        <ul>
+            <li>Juego ilustrativo</li>
+            <li> Tapa Blanda, 1250 paginas</li>
+        </ul>
+        <a href="comprar.html">Comprar</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Quijote · Libreria Davante</title>
+</head>
+<body>
+    <hl>El Quijote</hl>
+    <p>Autor : <b>Miguel de Cervantes</b></p>
+    <img src="proyecto/imagenes/imagenwebporadajuego_eldenring.jpg" alt="Portada" width="200">
+    <p>Precio: 12,95€</p><P>
+        <ul>
+            <li>Editorial clasicos</li>
+            <li> Tapa Blanda, 1250 paginas</li>
+        </ul>
+        <a href="comprar.html">Comprar</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Quijote · Libreria Davante</title>
+</head>
+<body>
+    <hl>El Quijote</hl>
+    <p>Autor : <b>Miguel de Cervantes</b></p>
+    <img src="proyecto/imagenes/imagenwebporadajuego_assasins_creed_odissey.jpg" alt="Portada" width="200">
+    
+        <ul>
+            <li>Editorial clasicos</li>
+        </ul>
+        <a href="comprar.html">Comprar</a>
+</body>
+</html>
