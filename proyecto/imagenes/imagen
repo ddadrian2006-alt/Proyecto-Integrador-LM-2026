@@ -3,56 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Expeditions Rome</title>
+    <title>Catálogo de Videojuegos</title>
 </head>
 <body>
-    <hl>El Quijote</hl>
-    <p>Autor : <b>Miguel de Cervantes</b></p>
-    <img src="proyecto/imagenes/imagenwebporadajuego_expeditions_rome.jpg" alt="Portada" width="200">
-    <p>Precio: 12,95€</p><P>
-        <ul>
-            <li>Juego ilustrativo</li>
-            <li> Tapa Blanda, 1250 paginas</li>
-        </ul>
-        <a href="comprar.html">Comprar</a>
-</body>
-</html>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Quijote · Libreria Davante</title>
-</head>
-<body>
-    <hl>El Quijote</hl>
-    <p>Autor : <b>Miguel de Cervantes</b></p>
-    <img src="proyecto/imagenes/imagenwebporadajuego_eldenring.jpg" alt="Portada" width="200">
-    <p>Precio: 12,95€</p><P>
+    <!-- JUEGO 1: Expeditions Rome -->
+    <article>
+        <h1>Expeditions: Rome</h1>
+        <p>Desarrollador: <b>THQ Nordic</b></p>
+        <img src="proyecto/imagenes/imagenwebporadajuego_expeditions_rome.jpg" alt="Portada Expeditions Rome" width="200">
+        <p>Precio: 12,95€</p>
         <ul>
-            <li>Editorial clasicos</li>
-            <li> Tapa Blanda, 1250 paginas</li>
+            <li>Juego de estrategia y rol táctico</li>
+            <li>Disfruta del magnífico juego de EXPEDITIONS ROME...</li>
+            <li>
+                Expeditions: Rome es un ejercicio de inmersión en los últimos años de la República de Roma sin demasiados artificios, no los
+                necesita, su trasfondo es tan poderoso que te atrapa por sí solo. El jugador asume el papel de un legado de Roma, un patricio
+                traicionado por su propia familia, apartado y denostado por las intrigas de un senado cada vez más dividido. Son los últimos
+                días de los cónsules, sólo restan unos años para que César cruce el Rubicón y desate la Guerra Civil en Roma. Dentro de ese 
+                apasionante marco histórico estamos nosotros. Compartiendo escenas con figuras como el propio César, Cicerón o el Rey Mitrídates 
+                el Grande por citar algunos, pero sabiendo la época y que Expeditions: Rome cuenta con tres campañas que nos llevarán a través
+                Asia Menor, el Norte de África y la Galia, te puedes hacer una idea del plantel completo sin necesidad de que yo te estropee 
+                alguna que otra sorpresa por el camino.
+            </li>
         </ul>
         <a href="comprar.html">Comprar</a>
-</body>
-</html>
+    </article>
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>El Quijote · Libreria Davante</title>
-</head>
-<body>
-    <hl>El Quijote</hl>
-    <p>Autor : <b>Miguel de Cervantes</b></p>
-    <img src="proyecto/imagenes/imagenwebporadajuego_assasins_creed_odissey.jpg" alt="Portada" width="200">
-    
+    <hr>
+
+    <!-- JUEGO 2: Elden Ring -->
+    <article>
+        <h1>Elden Ring</h1>
+        <p>Desarrollador: <b>FromSoftware (Publicado por Bandai Namco)</b></p>
+        <img src="proyecto/imagenes/imagenwebporadajuego_eldenring.jpg" alt="Portada Elden Ring" width="200">
+        <p>Precio: 59,95€</p>
         <ul>
-            <li>Editorial clasicos</li>
+            <li>Videojuego de Rol y Acción (RPG)</li>
+            <li>Desarrollado en colaboración con George R. R. Martin</li>
+            <li>
+                Elden Ring es una aventura de acción y rol ambientada en las Tierras Intermedias, un vasto e impresionante mundo abierto repleto de peligros, mazmorras oscuras y enemigos desafiantes. El jugador asume el papel de un Sinluz cuya misión es explorar el territorio, dominar el combate y reclamar el poder del Círculo de Elden para convertirse en el Señor del Círculo.
+            </li>
         </ul>
         <a href="comprar.html">Comprar</a>
+    </article>
+
+    <hr>
+
+    <!-- JUEGO 3: Assassin's Creed Odyssey -->
+    <article>
+        <h1>Assassin's Creed Odyssey</h1>
+        <p>Desarrollador: <b>Ubisoft</b></p>
+        <img src="proyecto/imagenes/imagenwebporadajuego_assasins_creed_odissey.jpg" alt="Portada Assassin's Creed Odyssey" width="200">
+        <p>Precio: 19,95€</p>
+        <ul>
+            <li>Videojuego de Acción y Rol (RPG)</li>
+            <li>Ambientado en la Antigua Grecia durante la Guerra del Peloponeso</li>
+            <li>
+                Assassin's Creed Odyssey te permite escribir tu propia odisea épica para convertirte en un héroe de Esparta. Elige el destino de tu personaje (Alexios o Kassandra), explora un mundo lleno de mitología, paisajes impresionantes y grandes batallas en el mar y en tierra firme, moldeando la historia con cada decisión que tomes.
+            </li>
+        </ul>
+        <a href="comprar.html">Comprar</a>
+    </article>
+
 </body>
 </html>
