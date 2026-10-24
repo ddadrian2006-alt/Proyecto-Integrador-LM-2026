@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Archivo de datos XML que contiene el catálogo de videojuegos de historia antigua del proyecto -->
-<catalogo propietario="tu-usuario-github">
+<catalogo propietario="ddadrian2006-alt">
     <videojuego id="V01">
         <titulo>Expeditions: Rome</titulo>
         <genero>Estrategia / RPG</genero>
