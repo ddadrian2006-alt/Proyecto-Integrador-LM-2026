@@ -45,3 +45,4 @@ Al final, he decidido finalizar la página 1,2 y 3, para así, si la próxima ve
 
 NOTA: En clase tuve problemas para guardar la palabra del día pero, recordé a tiempo que podía desde la página oficial de GITHUB, y es por eso por lo que estoy escribiendo esto aquí, la palabra del día esta en los dos commits de después de la palabra del día (tenía dos carpetas, asique para ser precavido lo hice así en ambas).
 
+(Este mensaje lo uso para hacer el commit final de entrega, la terminal me dice que no hay nada que commitear)
