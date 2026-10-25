@@ -41,7 +41,12 @@ En esta primera entrega he estructurado la base del proyecto dentro del reposito
 ## Qué he hecho en esta entrega (SEGUNDA ENTREGA)- RESUMEN
 En esta entrega he añadido las páginas 1,2 y 3, con la temática de estas, he añadido una introductoria de Roma, pero no descarto de momento la idea de añadir algo sobre la historia antigua asiática, con referencias a mangas, asi como hice de videojuegos en la primera entrega, esta página incluye imágenes hechas con ia (para publicarlas con calidad, y sin derechos de autor por si acaso). Por último, hoy 24 de octb aunque no he añadido todavía las imágenes, he eliminado las carpetas clon que hice después de un error en un commit (creo que ya se la razón de que se clonen algunos commits), lo malo es que me di cuenta tarde de esto, y creo que perdí dos commits que se guardaron en esas carpetas, pero la mayoría del progreso se ha guardado al menos.
 
-Al final, he decidido finalizar la página 1,2 y 3, para así, si la próxima vez que use la web, no me convence continuar con Roma, o al menos con la península continuar con otras zonas. He añadido algunas imágenes (algunas con IA, otras no).
+Al final, he decidido finalizar la página 1,2 y 3, para así, si la próxima vez que use la web, no me convence continuar con Roma, o al menos con la península continuar con otras zonas. He añadido algunas imágenes (algunas con IA, otras no). Las  fuentes de información son;
+-INTRO ROMA- https://redhistoria.com/historia-de-roma/#el-imperio-establecido-dinastias-y-expansion     
+-INFO SEVILLA ROMANA- https://conocersevilla.com/la-sevilla-romana/ sevilla      
+-INFO MERIDA- https://hispaniahistorica.com/ciudades-historicas/historia-de-merida-emerita-augusta-capital-lusitania/     
+-INFO BARCELONA1- https://www.barcelona.cat/es/conocebcn/la-historia/la-barcino-romana barcelona -INFO BARCELONA1- 
+-INFO BARCELONA2- https://www.lugaris.com/8-lugares-para-descubrir-la-barcelona-romana/ barcelona lugares
 
 NOTA: En clase tuve problemas para guardar la palabra del día pero, recordé a tiempo que podía desde la página oficial de GITHUB, y es por eso por lo que estoy escribiendo esto aquí, la palabra del día esta en los dos commits de después de la palabra del día (tenía dos carpetas, asique para ser precavido lo hice así en ambas).
 
