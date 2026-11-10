@@ -4,7 +4,7 @@
 * **Usuario de GitHub:** ddadrian2006-alt
 * **Tema elegido:** Historia Antigua, Arte Clásico y los Orígenes de Sevilla.
 
-## Por qué he elegido este tema
+## Por qué he elegido este tema                                     TEMA 2
 He elegido este tema porque el estudio de Historia del Arte, Latín y Griego durante el Bachillerato me fascinó y marcó profundamente mi interés por el mundo clásico. Además, me apasiona la historia antigua de mi propia ciudad, Sevilla, desde sus orígenes hasta su esplendor romano en Hispalis e Itálica. Esta temática me permite estructurar datos muy variados como monumentos, fechas históricas, ubicaciones y datos numéricos de forma clara tanto en HTML como en XML.
 
 ## Palabra del día
@@ -34,10 +34,10 @@ Todas las páginas del sitio web han sido validadas mediante el servicio oficial
 | `roma_emerita_augusta.html` | 0 | Corregido / Válido |
 | `roma_barcino.html` | 0 | Corregido / Válido |
 
-## Qué he hecho en esta entrega (PRIMERA ENTREGA)
+## ¿Qué he hecho en esta entrega? (PRIMERA ENTREGA)
 En esta primera entrega he estructurado la base del proyecto dentro del repositorio. He creado la página principal `index.html` presentando la historia antigua con formato semántico, enlaces, una imagen descriptiva y una lista de elementos históricos clave. Asimismo, he desarrollado el archivo `datos.xml` para almacenar los datos detallados de dicha lista con etiquetas personalizadas, atributos, datos numéricos con unidades y validación completa sin errores.
 
-## Qué he hecho en esta entrega (SEGUNDA ENTREGA)- RESUMEN
+## ¿Qué he hecho en esta entrega? (SEGUNDA ENTREGA)- RESUMEN            TEMA 3
 En esta entrega he añadido las páginas 1,2 y 3, con la temática de estas, he añadido una introductoria de Roma, pero no descarto de momento la idea de añadir algo sobre la historia antigua asiática, con referencias a mangas, asi como hice de videojuegos en la primera entrega, esta página incluye imágenes hechas con ia (para publicarlas con calidad, y sin derechos de autor por si acaso). Por último, hoy 24 de octb aunque no he añadido todavía las imágenes, he eliminado las carpetas clon que hice después de un error en un commit (creo que ya se la razón de que se clonen algunos commits), lo malo es que me di cuenta tarde de esto, y creo que perdí dos commits que se guardaron en esas carpetas, pero la mayoría del progreso se ha guardado al menos.
 
 Al final, he decidido finalizar la página 1,2 y 3, para así, si la próxima vez que use la web, no me convence continuar con Roma, o al menos con la península continuar con otras zonas. He añadido algunas imágenes (algunas con IA, otras no). Las  fuentes de información son;
@@ -49,4 +49,6 @@ Al final, he decidido finalizar la página 1,2 y 3, para así, si la próxima ve
 
 NOTA: En clase tuve problemas para guardar la palabra del día pero, recordé a tiempo que podía desde la página oficial de GITHUB, y es por eso por lo que estoy escribiendo esto aquí, la palabra del día esta en los dos commits de después de la palabra del día (tenía dos carpetas, asique para ser precavido lo hice así en ambas).
 
-(Este mensaje lo uso para hacer el commit final de entrega, la terminal me dice que no hay nada que commitear)
+## ¿Qué he hecho en esta entrega? (Tercera ENTREGA)- RESUMEN             TEMA 5
+He acabado haciéndome otro perfil para el trabajo, una cuenta para clase y otra para esta, seguí el consejo que me diste cuando te pregunte porque en mi ordenador local (el de casa) le da problemas comitear en con la nube, es por eso por lo que esto lo hago desde la nube, y no desde GitHub, dicho de otra forma; en mi ordenador local no comitea en el visual bien, posiblemente sean los problemas con la lluvia, que al igual que interfiere a veces en el wifi, puede ser eso o porque puede que no sea el ordenador donde comencé el proyecto. Estoy pensando desde ayer que no voy a añadir más HTML para buscar imágenes de google, sobre los lugares que me faltaban, Barcino (Barcelona), e Hispalis (Sevilla).
+Fuentes de las imágenes:
