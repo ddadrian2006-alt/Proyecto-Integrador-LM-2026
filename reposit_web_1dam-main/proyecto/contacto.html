@@ -61,18 +61,38 @@
           <label for="email">Correo electrónico:</label>
           <input type="email" id="email" name="email" placeholder="usuario@correo.com" required maxlength="100">
         </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Tu consulta</legend>
 
 
         <div>
-          <label for="telefono">Teléfono de contacto:</label>
-          <input type="tel" id="telefono" name="telefono" placeholder="600000000">
+          <label for="asunto">Motivo de contacto:</label>
+          <select id="asunto" name="asunto">
+            <option value="" disabled selected>Elige una opción</option>
+            <option value="sugerencia">Sugerencia histórica</option>
+            <option value="error">Aviso de error en la web</option>
+            <option value="colaboracion">Colaboración en el proyecto</option>
+            <option value="otro">Otro motivo</option>
+          </select>
         </div>
 
 
-  <footer>
-    <p>&copy; 2026 Adrián Durán Durán. Todos los derechos reservados.</p>
-  </footer>
+        <div>
+          <label for="mensaje">Mensaje:</label>
+          <textarea id="mensaje" name="mensaje" rows="4" cols="40" placeholder="Escribe aquí tus comentarios..." required minlength="10"></textarea>
+        </div>
 
 
-</body>
-</html>
+        <div>
+          <p>¿Qué épocas te interesan más? (Selecciona al menos una):</p>
+          <input type="checkbox" id="chk_roma" name="interes" value="roma" checked>
+          <label for="chk_roma">Antigua Roma</label>
+         
+          <input type="checkbox" id="chk_hispania" name="interes" value="hispania">
+          <label for="chk_hispania">Hispania Romana</label>
+         
+          <input type="checkbox" id="chk_videojuegos" name="interes" value="videojuegos">
+          <label for="chk_videojuegos">Videojuegos históricos</label>
+        </div>
