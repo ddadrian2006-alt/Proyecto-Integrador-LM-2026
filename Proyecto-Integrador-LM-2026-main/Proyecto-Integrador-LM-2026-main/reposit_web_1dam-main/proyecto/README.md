@@ -54,3 +54,11 @@ He acabado haciéndome otro perfil para el trabajo, una cuenta para clase y otra
 
 He tenido un problema con los commits, con la segunda cuenta me da menos problemas, pero al no tenerlo configurado, se me han clonado versiones anteriores(según la ia consultada, era para commitear), pero. es un arma de doble filo, es decir; ayuda ppero ¿a que costo?, de hecho le he pedido ayuda a Evelyn, ya que hacemos llamada muchas tardes, y al compartirla pantalla, lo ha intentado, pero es raro, me da problemas después de cerrar el programa (y al volverlo a iniciar, cuando lo abro da problemas), sino me deja commitear (si hago varios commits juntos) y todo sin problema, y en el pc de clase tampoco me da problemas. 
 Fuentes de las imágenes:
+Mons Taber: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDXgOc5KLFQhVjKsAvA_wvF1WbTlo6rHw4FxQb4YcEg&s=10 
+Antiquarium: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKs48v94mzpVWJM6qfQeICZ0OsjuxhXXELAmco2I5wg&s=10 
+Iglesia del Salvador: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmdpcqmZJqsf3ZvLM2giGsDUsM2y4F7Z9aveoDxmq87w&s=10 
+Italica: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLq7y4v8N-dprzQGAtDDIhO08yfuu3g8Rdoh940ZmuQ&s=10
+Domus de San Honorat: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2xoXG4P_Oi7rXS1NEfT_BxiLIHUANILnhKXaN5hbC9A&s=10 
+Muralla de Sevilla: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLGudQmQ5kdAfnwpgOpcFvgyIWTz0qnHbwQhJ8ngo1A&s=10 
+Calle Marmoles: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG9AU3aOiiBTTMOri9YtWJlnF6JFk3S21gJdTTBW7jYA&s=10 
+Templo Augusto: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6S3VCn4H4sfUQmaQLaGnEALLqDwum_0cDH8CqmIY1g&s=10 
