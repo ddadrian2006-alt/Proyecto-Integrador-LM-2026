@@ -21,20 +21,8 @@ He elegido este tema porque el estudio de Historia del Arte, Latín y Griego dur
 | `roma_emerita_augusta.html` | Orígenes de Mérida \| Videojuegos de Historia Antigua | Legado arqueológico y monumental de Augusta Emerita. |
 | `roma_barcino.html` | Orígenes de Barcelona \| Videojuegos de Historia Antigua | Evolución de Barcino y su huella en el mundo clásico. |
 
-### Validación W3C
-Todas las páginas del sitio web han sido validadas mediante el servicio oficial del W3C (Validate by File Upload) obteniendo **0 errores** de sintaxis.
 
-| Fichero | Errores W3C | Estado |
-| :--- | :--- | :--- |
-| `index.html` | 0 | Corregido / Válido |
-| `historiaroma.html` | 0 | Corregido / Válido |
-| `contacto.html` | 0 | Corregido / Válido |
-| `datos-xml.html` | 0 | Corregido / Válido |
-| `roma_sevilla.html` | 0 | Corregido / Válido |
-| `roma_emerita_augusta.html` | 0 | Corregido / Válido |
-| `roma_barcino.html` | 0 | Corregido / Válido |
-
-## ¿Qué he hecho en esta entrega? (PRIMERA ENTREGA)
+## ¿Qué he hecho en esta entrega? (PRIMERA ENTREGA)                
 En esta primera entrega he estructurado la base del proyecto dentro del repositorio. He creado la página principal `index.html` presentando la historia antigua con formato semántico, enlaces, una imagen descriptiva y una lista de elementos históricos clave. Asimismo, he desarrollado el archivo `datos.xml` para almacenar los datos detallados de dicha lista con etiquetas personalizadas, atributos, datos numéricos con unidades y validación completa sin errores.
 
 ## ¿Qué he hecho en esta entrega? (SEGUNDA ENTREGA)- RESUMEN            TEMA 3
@@ -44,15 +32,19 @@ Al final, he decidido finalizar la página 1,2 y 3, para así, si la próxima ve
 - INTRO ROMA- https://redhistoria.com/historia-de-roma/#el-imperio-establecido-dinastias-y-expansion     
 - INFO SEVILLA ROMANA- https://conocersevilla.com/la-sevilla-romana/ sevilla      
 - INFO MERIDA- https://hispaniahistorica.com/ciudades-historicas/historia-de-merida-emerita-augusta-capital-lusitania/     
-- INFO BARCELONA1- https://www.barcelona.cat/es/conocebcn/la-historia/la-barcino-romana barcelona -INFO BARCELONA1- 
+- INFO BARCELONA1- https://www.barcelona.cat/es/conocebcn/la-historia/la-barcino-romana barcelona  
 - INFO BARCELONA2- https://www.lugaris.com/8-lugares-para-descubrir-la-barcelona-romana/ barcelona lugares
 
 NOTA: En clase tuve problemas para guardar la palabra del día pero, recordé a tiempo que podía desde la página oficial de GITHUB, y es por eso por lo que estoy escribiendo esto aquí, la palabra del día esta en los dos commits de después de la palabra del día (tenía dos carpetas, asique para ser precavido lo hice así en ambas).
 
 ## ¿Qué he hecho en esta entrega? (Tercera ENTREGA)- RESUMEN             TEMA 5
-He acabado haciéndome otro perfil para el trabajo, una cuenta para clase y otra para esta, seguí el consejo que me diste cuando te pregunte porque en mi ordenador local (el de casa) le da problemas comitear en con la nube, es por eso por lo que esto lo hago desde la nube, y no desde GitHub, dicho de otra forma; en mi ordenador local no comitea en el visual bien, posiblemente sean los problemas con la lluvia, que al igual que interfiere a veces en el wifi, puede ser eso o porque puede que no sea el ordenador donde comencé el proyecto. Estoy pensando desde ayer que no voy a añadir más HTML para buscar imágenes de google, sobre los lugares que me faltaban, Barcino (Barcelona), e Hispalis (Sevilla). 
+He acabado haciéndome otro perfil para el trabajo, una cuenta para clase y otra para esta, seguí el consejo que me diste cuando te pregunte porque en mi ordenador local (el de casa) le da problemas comitear en con la nube, es por eso por lo que esto lo hago desde la nube, y no desde GitHub, dicho de otra forma; mi ordenador (local) no comitea en el visual bien, posiblemente sean los problemas con la lluvia, que al igual que interfiere a veces en el wifi, puede ser eso o porque puede que no sea el ordenador donde comencé el proyecto. Estoy pensando desde ayer que no voy a añadir más HTML para buscar imágenes de google, sobre los lugares que me faltaban, Barcino (Barcelona), e Hispalis (Sevilla). 
 
-He tenido un problema con los commits, con la segunda cuenta me da menos problemas, pero al no tenerlo configurado, se me han clonado versiones anteriores(según la ia consultada, era para commitear), pero. es un arma de doble filo, es decir; ayuda ppero ¿a que costo?, de hecho le he pedido ayuda a Evelyn, ya que hacemos llamada muchas tardes, y al compartirla pantalla, lo ha intentado, pero es raro, me da problemas después de cerrar el programa (y al volverlo a iniciar, cuando lo abro da problemas), sino me deja commitear (si hago varios commits juntos) y todo sin problema, y en el pc de clase tampoco me da problemas. 
+He tenido un problema con los commits, con la segunda cuenta me da menos problemas, pero al no tenerlo configurado, se me han clonado versiones anteriores(según la ia consultada, era para "commitear más fácil"), pero. es un arma de doble filo, es decir; ayuda pero ¿a que costo?, de hecho le he pedido ayuda a Evelyn, ya que hacemos llamada muchas tardes, y al compartir la pantalla, lo ha intentado, pero es raro, me da problemas después de cerrar el programa (y al volverlo a iniciar, cuando lo abro da problemas), sino me deja commitear (si hago varios commits juntos) y todo sin problema, y en el pc de clase tampoco me da problemas.
+
+- URL que aparece al cambiar en el formulario del método post al método get: 
+file:///C:/Users/duran/Downloads/Proyecto-Integrador-LM-2026-main%20(6)/Proyecto-Integrador-LM-2026-main/Proyecto-Integrador-LM-2026-main/Proyecto-Integrador-LM-2026-main/reposit_web_1dam-main/proyecto/contacto.html?nombre=Adri%C3%A1n+Dur%C3%A1n+Dur%C3%A1n+&email=ddadrian%40gmail.com&asunto=sugerencia&mensaje=Haz+de+Mesopotamia+porfaaaaaaaa&interes=roma&interes=hispania&valoracion=media# 
+
 Fuentes de las imágenes:
 - Mons Taber: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJDXgOc5KLFQhVjKsAvA_wvF1WbTlo6rHw4FxQb4YcEg&s=10 
 - Antiquarium: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvKs48v94mzpVWJM6qfQeICZ0OsjuxhXXELAmco2I5wg&s=10 
